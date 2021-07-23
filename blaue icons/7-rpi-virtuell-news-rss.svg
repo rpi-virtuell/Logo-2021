@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 566.93 566.93">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="0"/>
+<vectornator:setting key="PencilOnly" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="OutlineMode" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="GuidesVisible" value="0"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="doHistoryDisabled" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="TimeLapseWatermarkDisabled" value="0"/>
+<vectornator:setting key="Units" value="Points"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="IsolateActiveLayer" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+</metadata>
+<defs>
+<linearGradient y1="400" id="LinearGradient" x1="0" y2="400" x2="800.1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.708663 0 0 0.708663 -0.0709839 0)">
+<stop stop-color="#34b2f6" offset="0.0218447"/>
+<stop stop-color="#0073aa" offset="1"/>
+</linearGradient>
+</defs>
+<g id="Untitled" vectornator:layerName="Untitled">
+<path d="M452.339+0L114.449+0C51.1653+0-0.0709839+51.2363-0.0709839+114.52L-0.0709839+452.481C-0.0709839+515.694+51.1653+566.93+114.449+566.93L452.41+566.93C515.623+566.93+566.93+515.694+566.93+452.41L566.93+114.52C566.859+51.2363+515.623+0+452.339+0Z" fill-rule="evenodd" fill="url(#LinearGradient)" opacity="1"/>
+<path d="M191.292+430.898C191.292+446.256+185.917+459.311+175.166+470.061C164.416+480.811+151.362+486.186+136.004+486.186C120.647+486.186+107.593+480.811+96.8423+470.061C86.0921+459.311+80.7168+446.256+80.7168+430.898C80.7168+415.541+86.0921+402.489+96.8423+391.735C107.593+380.985+120.647+375.611+136.004+375.611C151.362+375.611+164.416+380.985+175.166+391.735C185.917+402.489+191.292+415.541+191.292+430.898ZM338.726+466.318C339.11+471.692+337.478+476.3+333.83+480.14C330.375+484.171+325.863+486.186+320.296+486.186L281.422+486.186C276.623+486.186+272.495+484.605+269.04+481.435C265.585+478.269+263.665+474.285+263.281+469.484C259.058+425.523+241.348+387.945+210.153+356.75C178.958+325.555+141.379+307.846+97.4182+303.622C92.6187+303.238+88.6354+301.319+85.4682+297.863C82.3006+294.408+80.7168+290.28+80.7168+285.481L80.7168+246.607C80.7168+241.04+82.7323+236.528+86.7636+233.073C90.0274+229.81+94.1548+228.178+99.1457+228.178L100.586+228.178C131.301+230.673+160.673+238.4+188.7+251.358C216.728+264.316+241.588+281.737+263.281+303.622C285.166+325.315+302.587+350.175+315.545+378.203C328.503+406.232+336.23+435.603+338.726+466.318ZM486.161+466.895C486.545+472.076+484.816+476.587+480.976+480.427C477.519+484.268+473.105+486.186+467.73+486.186L426.552+486.186C421.561+486.186+417.291+484.508+413.737+481.148C410.187+477.788+408.316+473.708+408.122+468.91C405.82+427.635+396.124+388.426+379.038+351.279C361.954+314.133+339.734+281.882+312.378+254.526C285.022+227.17+252.771+204.949+215.624+187.864C178.478+170.778+139.268+160.988+97.994+158.492C93.195+158.301+89.1155+156.429+85.7561+152.877C82.3963+149.326+80.7168+145.15+80.7168+140.351L80.7168+99.1732C80.7168+93.7983+82.6365+89.3829+86.4757+85.9273C89.9312+82.4718+94.1548+80.7442+99.1457+80.7442L100.01+80.7442C150.306+83.2399+198.443+94.7582+244.42+115.299C290.397+135.84+331.239+164.059+366.945+199.958C402.844+235.665+431.063+276.506+451.606+322.483C472.144+368.461+483.665+416.598+486.161+466.895Z" fill-rule="evenodd" fill="#ffffff" opacity="1"/>
+</g>
+</svg>
